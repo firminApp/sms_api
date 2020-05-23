@@ -37,8 +37,8 @@ class SmsSender{
      */
     function chechCredit($api_key=null,$phone=null,$firstname=null,$lastname=null,$mail=null){
 
-        //$url="https://sms.coursesroom.com/sms";
-        $url="http://localhost:4002/users";
+        $url="https://sms.coursesroom.com/sms";
+        //$url="http://localhost:4002/users";
 
 
 
